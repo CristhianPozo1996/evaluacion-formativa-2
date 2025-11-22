@@ -1,0 +1,3 @@
+import suma
+
+suma.sumar()
